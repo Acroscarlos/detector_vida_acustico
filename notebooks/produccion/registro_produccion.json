@@ -1,0 +1,10 @@
+{
+    "mejor_marca": 0.8682761894040064,
+    "metrica_objetivo": "val_f1_macro",
+    "metricas_detalladas": {
+        "val_loss": 0.32007123899283046,
+        "val_f1_macro": 0.8682761894040064,
+        "val_auc": 0.9888278804750936
+    },
+    "ruta_pesos": "C:\\Users\\carlo\\Documents\\detector_vida_acustico\\detector_vida_acustico\\notebooks\\produccion\\modelo_usar_v2.pth"
+}
